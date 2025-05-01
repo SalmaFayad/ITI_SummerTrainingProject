@@ -31,11 +31,3 @@ This is a simple music artists app built as part of my ITI Summer Training.
    ```
    npx json-server --watch db.json --port 3005
    ```
-
-## 📷 Screenshots
-
-_Add screenshots here if you have any._
-
----
-
-Feel free to fork, use, and modify this project ✨
